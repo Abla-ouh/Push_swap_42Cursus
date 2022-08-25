@@ -6,7 +6,7 @@
 
 Hi ! This project Iis about sorting data on a stack, with a limited set of instructions, using the lowest possible number of actions. To succeed we have to manipulate various types of algorithms and choose the most appropriate solution (out of many) for an optimized data sorting.
 
-### ---------------->>  FREE TO USE ANY ALGORITHM AS LONG AS IT DO THE REQUIRED <<----------------
+<h2 align="center"> ---->>  FREE TO USE ANY ALGORITHM AS LONG AS IT DO THE REQUIRED <<---- </h2>
 ---
 ### The given instructions ...
   
