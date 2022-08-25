@@ -28,8 +28,10 @@ Hi ! This project Iis about sorting data on a stack, with a limited set of instr
 For **Mandatory** part :
 	 
 --> `make`
+
 --> `./push_swap [set of random numbers]`
-	 ex : 
+
+ex : 
 
     $>./push_swap 2 1 3 6 5 8`
     sa
@@ -49,8 +51,10 @@ For **Mandatory** part :
 For **Bonus** part : 
 
 --> `make bonus`
+
 --> `./checker [set of random numbers]`
-	  ex :
+
+  ex :
 	  
     $>./checker 3 2 1 0
     rra
