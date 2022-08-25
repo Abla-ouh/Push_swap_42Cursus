@@ -1,9 +1,10 @@
-#  LET'S PLAY A CUTE 2D GAME :)
+<h1 align= "center"> LET'S DO SOME SORTING :) </h1>
+
 ![enter image description here](https://raw.githubusercontent.com/ridaelfagrouch/push_swap_42/main/assets/push_swap.png)
 
 Hi ! This project Iis about sorting data on a stack, with a limited set of instructions, using the lowest possible number of actions. To succeed we have to manipulate various types of algorithms and choose the most appropriate solution (out of many) for an optimized data sorting.
 
-### ---------------->>  FREE TO USE ANY ALGORITHM AS LONG AS IT DO THE REQUIRED <<----------------
+<h2 align="center">->>  FREE TO USE ANY ALGORITHM AS LONG AS IT DO THE REQUIRED <<-</h2>
 ---
 ### The given instructions ...
   
