@@ -1,15 +1,10 @@
-
-  <h1 align="center">  LET'S DO SOME SORTING :) </h1>
-
-
+#  LET'S PLAY A CUTE 2D GAME :)
 ![enter image description here](https://raw.githubusercontent.com/ridaelfagrouch/push_swap_42/main/assets/push_swap.png)
 
 Hi ! This project Iis about sorting data on a stack, with a limited set of instructions, using the lowest possible number of actions. To succeed we have to manipulate various types of algorithms and choose the most appropriate solution (out of many) for an optimized data sorting.
 
-<h2 align="center"> ->>  FREE TO USE ANY ALGORITHM AS LONG AS IT DO THE REQUIRED <<- </h2>
-
+### ---------------->>  FREE TO USE ANY ALGORITHM AS LONG AS IT DO THE REQUIRED <<----------------
 ---
-
 ### The given instructions ...
   
 |instructions| Description |
@@ -28,9 +23,11 @@ Hi ! This project Iis about sorting data on a stack, with a limited set of instr
 | rrr | rotates both A and B down by one |
 ---
 ### How to compile it ? 
-For **Mandatory** part : 
-	 --> `make`
-	 --> `./push_swap [set of random numbers]`
+
+For **Mandatory** part :
+	 
+--> `make`
+--> `./push_swap [set of random numbers]`
 	 ex : 
 
     $>./push_swap 2 1 3 6 5 8`
@@ -49,8 +46,9 @@ For **Mandatory** part :
 -   In case of error, you must display Error followed by a ’\n’ on the standard error. Errors include for example: some arguments aren’t integers, some arguments are bigger than an integer, and/or there are duplicates.
 
 For **Bonus** part : 
-	  --> `make bonus`
-	  --> `./checker [set of random numbers]`
+
+--> `make bonus`
+--> `./checker [set of random numbers]`
 	  ex :
 	  
     $>./checker 3 2 1 0
